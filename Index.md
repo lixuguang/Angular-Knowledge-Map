@@ -2,12 +2,20 @@
 - 组件
   - 组件交互
     - [选择关于Component的使用（在另一个组件模板或模块中）的说法是正确的?](./Component/1.md)
-    - [以下哪个DecimalPipe的格式可以将 x = 5.1289389983 转换为 5.128](./Component/2.md)
   - 管道
+    - [以下哪个DecimalPipe的格式可以将 x = 5.1289389983 转换为 5.128](./Component/2.md)
+    - [你可以在一个表达式中，将多个管道(Pipe)与 "异步" 管道 (asyncPipe)一起联用吗？](./Component/5.md)
   - 生命周期
+    - [关于生命周期钩子 - ngAfterContentInit，以下哪项是正确的](./Component/3.md)
+    - [请解释下面代码的执行顺序？](./Component/4.md)
 - 路由
   - 路由信息
+    - [哪个服务(service)可以获取组件内部的路由参数？](./Route/1.md)
   - 基本路由配置
+    - [在Angular路由中，哪个标签可以通过路由来渲染匹配的组件？](./Route/2.md)
+    - [哪个通配符用于定义未找到页面的路由？](./Route/3.md)
   - 嵌套路由
+    - [在Angular应用中可以有多个<router-outlet>元素。](./Route/4.md)
 - 表单
   - 响应式表单
+    - [当form表单中的值被修改时，页面的FormControl中的哪个样式名（class name）被设置成True? ]()
